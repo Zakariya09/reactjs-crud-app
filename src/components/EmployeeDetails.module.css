@@ -1,0 +1,17 @@
+.align-btn {
+  margin: 2% 7% 0% 1%;
+}
+.modal-actions{
+  margin: 12px;
+  padding: 12px;
+}
+.modal-action-btn{
+  margin: 5px;
+}
+.warning-text{
+  color:#e61313;
+}
+
+.label{
+  font-weight: bold;
+}
